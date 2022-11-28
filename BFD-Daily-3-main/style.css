@@ -1,0 +1,67 @@
+.c {
+    background-color: blue;
+    color: rgb(252, 248, 248);
+    width: 400px;
+    padding: 50px;
+    border:5px dotted red
+}
+
+.co {
+    background-color: green;
+    color: rgb(253, 250, 250);
+    width: 400px;
+    padding: 50px;
+    border-radius: 17px;
+    border: 5px solid #FFA500
+    
+}
+
+.con {
+    color: black;
+    background-color: yellow;
+    width: 400px;
+    padding: 50px;
+    border-radius: 13px;
+    border: 5px double  #0749fd;
+    
+}
+
+.ba {
+    
+    background: url(http://www.bakupages.com/club/photography/images/baki_geceleri-02194538.jpg);
+    background-size: cover;
+    padding: 200px;
+    width: 400px;
+    border-radius: 17px;
+}
+
+.bak{
+    
+    background: url(https://cdn.frisaga.com/catalog/image/destination/nightlife/d0194415-8d17-4432-86aa-3a880e8f5f85.jpg);
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 800px;
+    padding: 200px;
+    width: 400px;
+    border-radius: 17px;
+    color: white;
+}
+
+.baku{
+
+    background: url(https://letsgo.az/photo/0x0_1/upload//photo/2018/04/08/20180408181525-37729936.jpg);
+    background-size: cover;
+    margin-top: 20px;
+    padding: 200px;
+    width: 400px;
+    border-radius: 17px;
+    color: white;
+
+}
+
+.aa {
+    margin-left: -100px;
+    margin-top: -115px;
+}
+
+
